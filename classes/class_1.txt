@@ -1,0 +1,13 @@
+Class: Utensil
+
+Attributes:
+primaryUse (string)
+totalInventory (integer)
+cost (float)
+material (string)
+
+Methods:
+changeMaterial (Changes primaryUse attribute)
+inventoryValue (Multiplies cost attribute by totalInventory attribute)
+addShipment (Adds 20 to totalInventory attribute)
+throwAway (subtracts 4 from totalInventory attribute)
