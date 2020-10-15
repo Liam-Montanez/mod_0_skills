@@ -1,0 +1,13 @@
+Class: Knife
+
+Attributes:
+primaryUse = "cutting"
+totalInventory = 120
+costDollars = 1.28
+material = "metal"
+
+Methods:
+changeMaterial = "plastic"
+inventoryValue = 1.28*120 = 153.6
+addShipment = 20+120 = 140
+throwAway = 120-4 = 116
