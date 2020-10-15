@@ -1,0 +1,13 @@
+Class: Drinkware
+
+Attributes:
+size (string)
+handle? (boolean)
+usedInventory (integer)
+totalInventory (integer)
+
+Methods:
+upgradeSize (changes size attribute)
+shatter (subtracts 1 from totalInventory attribute)
+availableInventory (subtracts totalInventory attribute by usedInventory attribute)
+washCycle (subtracts 16 from usedInventory attribute)
