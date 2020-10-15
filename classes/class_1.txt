@@ -3,7 +3,7 @@ Class: Utensil
 Attributes:
 primaryUse (string)
 totalInventory (integer)
-cost (float)
+costDollars (float)
 material (string)
 
 Methods:
