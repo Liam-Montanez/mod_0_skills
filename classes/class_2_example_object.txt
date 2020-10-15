@@ -1,0 +1,13 @@
+Class: Wine Glass
+
+Attributes:
+size = "Standard"
+handle? = nil
+usedInventory = 20
+totalInventory = 60
+
+Methods:
+upgradeSize = "Large"
+shatter = 60-1 = 59
+availableInventory = 60-20 = 40
+washCycle = 20-16 = 4
