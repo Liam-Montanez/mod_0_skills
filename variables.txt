@@ -1,0 +1,11 @@
+food = "burger"
+is_delicious = false
+food = "taco"
+num2 = 6
+num7 = 3
+quotient = 2
+songs = ["Sad", "Faded", "Silvia"]
+
+puts songs.shift
+
+puts songs.size
